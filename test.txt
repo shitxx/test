@@ -1,1 +1,6 @@
 test win create file command
+bbbb
+test conflict
+test --no-ff
+test fast-forward
+test stash and issue
